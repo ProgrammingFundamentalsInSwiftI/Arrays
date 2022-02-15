@@ -1,6 +1,6 @@
 import Foundation
 
-// PROBLEM 1.0 : BASIC ARRAY CREATION
+//  PROBLEM 1.0 : BASIC ARRAY CREATION
 // Assume you are an event coordinator for a community charity event and are keeping a list of who has registered. Create a variable registrationList that will hold strings. It should be empty after initialization.
 
 

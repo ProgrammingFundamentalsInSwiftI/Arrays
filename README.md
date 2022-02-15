@@ -1,6 +1,6 @@
 # Arrays
  
- Arrays are useful tools that allow us to store multiple varaibles of the same type. Each array
+  Arrays are useful tools that allow us to store multiple varaibles of the same type. Each array
  begins at 0 and will increase to up to one less than its length (because we start at 0, not 1)
  An array of length 10 will have index values of 0 - 9, an example below
  
